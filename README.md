@@ -6,7 +6,7 @@ This work has been realized in University of Pisa/Scuola Superiore Sant'Anna in 
 
 ## Path and dependency
 ```
-turtlebot3_environment_scanner/
+Driving_Simulator_with_VxWorks_and_Unreal_Engine/
 ├──Report
 ├──Utilities
 ├──Unreal_Engine_Source_Code
