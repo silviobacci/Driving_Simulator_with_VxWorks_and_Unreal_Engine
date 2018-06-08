@@ -2,7 +2,7 @@
 The application is a driving simulator which allows the user to drive a car in a predefined map with some obstacles. The car can also moves by itself, reaching a predefined destination point avoiding obstacles, if needed. The graphical software is an Unreal Engine application running on a general purpose operating system mounted on laptop or on a desktop computer. The calculation software runs in a computing board equipped with a real-time operating system called VxVorks developed by WindRiver.
 
 ## About 
-This work has been realized in University of Pisa/Scuola Superiore Sant'Anna in the context of Robotics and Human Machine Interfaces exam.
+This work has been realized in University of Pisa/Scuola Superiore Sant'Anna in the context of Real-Time System exam.
 
 ## Path and dependency
 ```
