@@ -13,13 +13,13 @@ Driving_Simulator_with_VxWorks_and_Unreal_Engine/
 └──VxWorks_Source_Code
 
 =======
-Utilities 		-> useful files in Python used to create an UDP communication between two laptops
+Utilities 		                -> useful files in Python used to create an UDP communication between two laptops
 =======
-Report 		-> report of the project
+Report 		                    -> report of the project
 =======
 Unreal_Engine_Source_Code 		-> source code of the Unreal Engine application
 =======
-VxWorks_Source_Code 		-> source code of the VxWorks application
+VxWorks_Source_Code 		      -> source code of the VxWorks application
 =======
 ```
 
