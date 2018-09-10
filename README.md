@@ -27,19 +27,3 @@ VxWorks_Source_Code 		      -> source code of the VxWorks application
 * <b>Silvio Bacci</b>
 
 The same list can be found also in the <a href="https://github.com/silviobacci/Driving_Simulator_with_VxWorks_and_Unreal_Engine/graphs/contributors">contributors of this project.</a>
-
-## License and citation
-The project comes with an Apache 2 license. Of you want to use this code, you can do without limitation but you have to document the modifications and include this license. If you want to cite, please refer to:
-
-```
-@misc {
-bacci2017,
-author = "Silvio Bacci",
-title = "Driving Simulator with VxWorks and Unreal Engine",
-year = 2017,
-address = "Pisa"
-}
-```
-
-
-
